@@ -1,0 +1,15 @@
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\bin\Debug\net6.0\DIO_Desafio_OOP.exe
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\bin\Debug\net6.0\DIO_Desafio_OOP.deps.json
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\bin\Debug\net6.0\DIO_Desafio_OOP.runtimeconfig.json
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\bin\Debug\net6.0\DIO_Desafio_OOP.dll
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\bin\Debug\net6.0\DIO_Desafio_OOP.pdb
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.csproj.AssemblyReference.cache
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.AssemblyInfoInputs.cache
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.AssemblyInfo.cs
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.dll
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\refint\DIO_Desafio_OOP.dll
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.pdb
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\DIO_Desafio_OOP.genruntimeconfig.cache
+C:\Users\PC01\Dio\C#\DIO_Desafio_OOP\obj\Debug\net6.0\ref\DIO_Desafio_OOP.dll
