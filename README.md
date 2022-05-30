@@ -1,2 +1,2 @@
 # DIO-Desafios
-Desafios realizados na plataforma da DIO - Digital innovation One
+Desafios realizados da plataforma da DIO - Digital innovation One
