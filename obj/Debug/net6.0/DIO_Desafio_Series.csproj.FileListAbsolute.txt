@@ -1,0 +1,15 @@
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\bin\Debug\net6.0\DIO_Desafio_Series.exe
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\bin\Debug\net6.0\DIO_Desafio_Series.deps.json
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\bin\Debug\net6.0\DIO_Desafio_Series.runtimeconfig.json
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\bin\Debug\net6.0\DIO_Desafio_Series.dll
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\bin\Debug\net6.0\DIO_Desafio_Series.pdb
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.csproj.AssemblyReference.cache
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.AssemblyInfoInputs.cache
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.AssemblyInfo.cs
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.dll
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\refint\DIO_Desafio_Series.dll
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.pdb
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\DIO_Desafio_Series.genruntimeconfig.cache
+C:\Users\PC01\Dio\C#\DIO-Desafios\DIO_Desafio_Series\obj\Debug\net6.0\ref\DIO_Desafio_Series.dll
